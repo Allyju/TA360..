@@ -724,7 +724,7 @@
                             <div class="contact-icon">📞</div>
                             <div>
                                 <strong>Phone</strong><br>
-                                +255 695096807![file_00000000f3f0622fa7c9df6e7488291c](https://github.com/user-attachments/assets/f41edb41-258e-4825-896f-8a39d9f9177a)
+                                +255 695096807
                             </div>
                         </div>
                         <div class="contact-item">
